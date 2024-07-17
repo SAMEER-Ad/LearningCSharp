@@ -1,4 +1,8 @@
-﻿using System;
+//works but
+//not a selection short 
+//lots of sonfusion 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
